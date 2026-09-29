@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "MGShaders Go",
+    "description": "Shader visual para Minecraft Bedrock com Vibrant Visuals",
+    "uuid": "7e3d9f4a-1c52-4d0e-a3a1-8e2f4b7c9d10",
+    "version": [1,0,0],
+    "min_engine_version": [1,21,120]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b2a7c5e1-6f34-49d8-9c21-5a8e3d7f0b46",
+      "version": [1,0,0]
+    }
+  ],
+  "capabilities": ["pbr"]
+}
