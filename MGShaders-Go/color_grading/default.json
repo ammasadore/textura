@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.120",
+  "midtones": {
+    "contrast": [1.08,1.08,1.08],
+    "gain": [1.03,1.02,1.0],
+    "gamma": [1.02,1.02,1.02],
+    "saturation": [1.08,1.08,1.08],
+    "offset": [0.0,0.0,0.0]
+  },
+  "highlights": {
+    "enabled": true,
+    "contrast": [1.02,1.02,1.02],
+    "gain": [1.04,1.03,1.0],
+    "gamma": [1.0,1.0,1.0],
+    "saturation": [1.04,1.04,1.04],
+    "offset": [0.0,0.0,0.0]
+  },
+  "shadows": {
+    "enabled": true,
+    "contrast": [1.04,1.04,1.04],
+    "gain": [0.98,1.0,1.04],
+    "gamma": [1.03,1.03,1.03],
+    "saturation": [1.05,1.05,1.05],
+    "offset": [0.0,0.0,0.0]
+  },
+  "temperature": {
+    "enabled": true,
+    "temperature": 6500.0
+  }
+}
